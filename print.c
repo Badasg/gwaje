@@ -2,8 +2,8 @@
 
 int main()
 {
-	printf("koalas are so cute.\n");
-	printf("Ducks never feel cold, even if they swim in cold water.\n");
+	printf("Koalas eat eucalyptus tree leaves.\n");
+	printf("Ducks are relatives of geese and swans.\n");
 	printf("Platypuses are not very comfortable on land.\n");
 	printf("Bears have a very good sense of smell.\n");
 	printf("Pandas eat bamboo.\n");
