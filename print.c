@@ -7,6 +7,6 @@ int main()
 	printf("Platypuses are not very comfortable on land.\n");
 	printf("Bears have a very good sense of smell.\n");
 	printf("Pandas are very special animals.\n");
-	printf("Polar bears look very cute.\n");
+	printf("The polar bear population is shrinking.\n");
 	return 0;
 }
